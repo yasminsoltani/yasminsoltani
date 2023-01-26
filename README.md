@@ -16,9 +16,9 @@
 
 #### ● [#8WeeksSQLChallenge](https://github.com/yasminsoltani/8-Weeks-SQL-Challenge) 
 
-#### ● [AlexTheAnalyst Portfolio Projects](https://github.com/YasminS199/SQL-first-project-from-Alex-the-Analyst-)
+#### ● [Portfolio Projects from AlexTheAnalyst](https://github.com/YasminS199/SQL-first-project-from-Alex-the-Analyst-)
 
-#### ● TechTFQ Olympics Database
+#### ● [Olympics Dataset from techTFQ](https://github.com/yasminsoltani/Olympics-Dataset-/blob/main/Olympics%20Dataset%20from%20techTFQ/Olympics%20Dataset.md)
 
 
 ### 🌱 **Currently**

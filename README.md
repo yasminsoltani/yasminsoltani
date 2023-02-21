@@ -14,7 +14,7 @@
 
 ### 👩🏽‍💻 **Projects**
 
-#### ● [#8WeeksSQLChallenge](https://github.com/yasminsoltani/8-Weeks-SQL-Challenge) 
+#### ● [#8WeeksSQLChallenge by Danny Ma](https://github.com/yasminsoltani/8-Weeks-SQL-Challenge) 
 
 #### ● [Portfolio Projects from AlexTheAnalyst](https://github.com/YasminS199/SQL-first-project-from-Alex-the-Analyst-)
 

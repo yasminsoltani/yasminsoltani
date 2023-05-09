@@ -6,7 +6,7 @@
 
 ### 📌 **Skills**
 
-#### ● Tools: SQL, Microsoft Excel, Tableau, R
+#### ● Tools: SQL, Microsoft Excel, R, Python
 
 #### ● Analysis: Data Cleaning, Data Exploration, Data Visualization, Creating Dashboards.
 

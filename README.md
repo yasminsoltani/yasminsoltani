@@ -36,7 +36,6 @@
 
 #### ● AWS Certifications (Cloud Practitioner and Data Analytics)
 
-#### ● Write my own Data Book :-)
 
 
 ### 🤝🏽 **Connect with me!**

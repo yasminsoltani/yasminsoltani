@@ -6,7 +6,7 @@
 
 ### 📌 **Skills**
 
-#### ● Tools: SQL, Microsoft Excel, R, Python
+#### ● Tools: SQL, Microsoft Excel, Python
 
 #### ● Analysis: Data Cleaning, Data Exploration, Data Visualization, Creating Dashboards.
 
@@ -23,11 +23,10 @@
 
 ### 🌱 **Currently**
 
+#### ● Working as a Data Analyst Intern at NOV 💻
+
 #### ● Pursuing a Bachelor's Degree in Biomedical Engineering 🧬
 
-#### ● Seeking full-time data analyst position 🔍
-
-#### ● Working on Portfolio Projects and improving data analytics skills
 
 
 ### 🏹 **Future endeavours**

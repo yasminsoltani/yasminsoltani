@@ -1,6 +1,6 @@
 # Hello there! 🙋🏽‍♀️
 
-#### My name is Yasmin and I'm a Data Analyst.
+#### My name is Yasmin and I'm a Senior Biomedical Engineering student at University of Houston. I have an interest in Data Science, particularly using data to solve challenges in healthcare, social determinants of health (SdoH), and technology. I have experience working as a Data Scientist at National Oilwell Varco and I have research experience at University of Maryland Baltimore County. I am currently a 2024 Pharis Fellow, where I am conducting data science research for refugees education: I am particularly investigating factors that impact language acquisition and educational attainment in refugee/asylee students attending Texas public schools.
 
 
 
@@ -20,20 +20,22 @@
 
 #### ● [Olympics Dataset from techTFQ](https://github.com/yasminsoltani/Olympics-Dataset-/blob/main/Olympics%20Dataset%20from%20techTFQ/Olympics%20Dataset.md)
 
+#### ● [Biomedical Engineering Projects](https://github.com/yasminsoltani/numerical_analysis.md)
+
+#### ● [R Projects](https://github.com/yasminsoltani/Rprogramming.md/blob/main/LawOfLargeNumbers/LawofLargeNumbers.md)
+
 
 ### 🌱 **Currently**
 
-#### ● Working as a Data Analyst Intern at NOV 💻
+#### ● 2024 Pharis Fellowship - Education Research Center Staff 💻
 
-#### ● Pursuing a Bachelor's Degree in Biomedical Engineering 🧬
+#### ● Senior Student of Biomedical Engineering at UH 🧬
 
 
 
 ### 🏹 **Future endeavours**
 
 #### ● Earn a Master's Degree in Data Science
-
-#### ● AWS Certifications (Cloud Practitioner and Data Analytics)
 
 
 

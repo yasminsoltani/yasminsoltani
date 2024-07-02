@@ -6,9 +6,13 @@
 
 ### 📌 **Skills**
 
-#### ● Tools: SQL, Microsoft Excel, Python
+#### ● Software: Microsoft Office, AutoCAD, Tableau, MS SQL Server, RStudio, Linux, Power BI, SPSS
 
-#### ● Analysis: Data Cleaning, Data Exploration, Data Visualization, Creating Dashboards.
+#### ● Programming languages: SQL, R, C, MATLAB, Python
+
+#### ● Data Analytics skills: Data Cleaning, Relational Database, Data Pivoting, Data Visualization, Data Scraping, Data Aggregation
+
+#### ● Certifications: Google Data Analytics Certificate, Querying Microsoft SQL Server with Transact-SQL
 
 
 
@@ -36,7 +40,7 @@
 ### 🏹 **Future endeavours**
 
 #### ● Earn a Master's Degree in Data Science
-
+#### ● AWS Certifications
 
 
 ### 🤝🏽 **Connect with me!**

@@ -12,7 +12,7 @@
 
 #### ● Data Analytics skills: Data Cleaning, Relational Database, Data Pivoting, Data Visualization, Data Scraping, Data Aggregation
 
-#### ● Certifications: Google Data Analytics Certificate, Querying Microsoft SQL Server with Transact-SQL
+#### ● Certifications: Google Data Analytics Certificate
 
 
 

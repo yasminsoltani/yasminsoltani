@@ -8,7 +8,7 @@
 
 #### ● Software: Microsoft Office, AutoCAD, Tableau, MS SQL Server, RStudio, Linux, Power BI, SPSS
 
-#### ● Programming languages: SQL, R, C, MATLAB, Python
+#### ● Programming languages: SQL, R, MATLAB, Python
 
 #### ● Data Analytics skills: Data Cleaning, Relational Database, Data Pivoting, Data Visualization, Data Scraping, Data Aggregation
 

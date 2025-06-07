@@ -6,7 +6,7 @@
 
 ### 📌 **Skills**
 
-#### ● Software: Microsoft Office, AutoCAD, Tableau, MS SQL Server, RStudio, Linux, Power BI, SPSS
+#### ● Software: Microsoft Power Apps (SharePoint, Power Apps, Power Automate), Power BI, MS SQL Server, RStudio, SPSS
 
 #### ● Programming languages: SQL, R, MATLAB, Python
 
@@ -30,7 +30,7 @@
 
 ### 🏹 **Future endeavours**
 
-#### ● Earn a Master's Degree in Data Science or Neuroscience
+#### ● Earn a Master's Degree in Data Science
 
 
 ### 🤝🏽 **Connect with me!**

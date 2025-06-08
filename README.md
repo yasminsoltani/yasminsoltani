@@ -22,7 +22,7 @@
 
 #### ● [Olympics Dataset from techTFQ](https://github.com/yasminsoltani/Olympics-Dataset-/blob/main/Olympics%20Dataset%20from%20techTFQ/Olympics%20Dataset.md)
 
-#### ● [Biomedical Engineering Projects](https://github.com/yasminsoltani/numerical_analysis.md)
+#### ● [Machine Learning Models](https://github.com/yasminsoltani/numerical_analysis.md)
 
 #### ● [R Projects](https://github.com/yasminsoltani/Rprogramming.md/blob/main/LawOfLargeNumbers/LawofLargeNumbers.md)
 

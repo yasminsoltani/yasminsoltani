@@ -1,7 +1,6 @@
 # Hello there! 🙋🏽‍♀️
 
-#### My name is Yasmin and I'm a Senior Biomedical Engineering student at University of Houston. I have an interest in Data Science, particularly using data to solve challenges in healthcare, social determinants of health (SdoH), and technology. I have previously interned as a Data Scientist at National Oilwell Varco and I have conducted ML research at University of Maryland Baltimore County. I am a 2024 Pharis Fellow, where I had the chance to conduct data science research for refugees education, particularly investigating factors that impact language acquisition and educational attainment in refugee/asylee students attending Texas public schools. As of now, I am working on building a Machine Learning Model that works as Sleep Stage Classifier.  
-
+#### I'm currently interning at NASA as a Rocket Propulsion Testing Data Modernization Intern. My work here consists of creating data architectures using Microsoft Power Platforms, like Microsoft Power Apps, Microsoft Power Automate, and Microsoft SharePoint. 
 
 
 ### 📌 **Skills**

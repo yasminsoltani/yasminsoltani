@@ -1,17 +1,28 @@
-# Hello there! 🙋🏽‍♀️
+# # Hi, I'm Yasmin 🙋🏽‍♀️
 
-#### I'm currently interning at NASA as a Rocket Propulsion Testing Data Modernization Intern. My work here consists of creating data architectures using Microsoft Power Platforms, like Microsoft Power Apps, Microsoft Power Automate, and Microsoft SharePoint. 
+Biomedical engineer turned data & AI governance nerd. I build things and then ask 
+whether we should have built them.
+
+Currently a Technical Lead intern at NASA Headquarters, where I'm leading the agency's 
+first enterprise Data Maturity Assessment — designing the architecture, building the 
+Power Platform tooling, and working across the Chief Data Officer and Chief AI Officer 
+teams to make it real. Starting my M.S. in Computer Science at George Washington 
+University in Fall 2026.
+
+My work lives at the intersection of technical implementation and responsible AI/data 
+policy. I care about data governance frameworks, AI accountability, and building systems 
+that are actually trustworthy, not just functional.
 
 
-### 📌 **Skills**
 
-#### ● Software: Microsoft Power Apps (SharePoint, Power Apps, Power Automate), Power BI, MS SQL Server, RStudio, SPSS
+### 🛠️ What I work with
+**Platforms & Tools:** Power Apps · Power Automate · Dataverse · SharePoint · Power BI  
+**Languages:** Python · SQL · R · MATLAB  
+**Frameworks & Standards:** NIST AI RMF · OECD AI Principles · IAPP AI Governance  
+**Focus areas:** Data governance · AI policy · Enterprise architecture · Data maturity
 
-#### ● Programming languages: SQL, R, MATLAB, Python
 
-#### ● Data Analytics skills: Data Cleaning, Relational Database, Data Pivoting, Data Visualization, Data Scraping, Data Aggregation
-
-#### ● Certifications: Google Data Analytics Certificate
+#### ● Certifications: Microsoft Pl-900, Google Data Analytics Certificate
 
 
 

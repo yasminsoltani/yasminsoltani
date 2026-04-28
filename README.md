@@ -21,9 +21,9 @@ that are actually trustworthy, not just functional.
 **Focus areas:** Data governance · AI policy · Enterprise architecture · Data maturity
 
 ### 📜 Certifications
-[<img src="https://github.com/user-attachments/assets/1a501cb5-6c0a-4cd5-829d-4160215e5b10" alt="Microsoft" width="30"/>](https://learn.microsoft.com/en-us/users/yasminsoltani-5980/credentials/2ce40bcfbff4979e?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+<!--[<img src="https://github.com/user-attachments/assets/1a501cb5-6c0a-4cd5-829d-4160215e5b10" alt="Microsoft" width="30"/>](https://learn.microsoft.com/en-us/users/yasminsoltani-5980/credentials/2ce40bcfbff4979e?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 &nbsp;&nbsp;&nbsp;
-[<img src="https://github.com/user-attachments/assets/f2bcc589-a163-443f-9c1d-e906870c97ae" alt="Google" width="80"/>](https://www.credly.com/badges/8c172162-eee8-467e-8b44-0301876ce7be/linked_in_profile)
+<!-- [<img src="https://github.com/user-attachments/assets/f2bcc589-a163-443f-9c1d-e906870c97ae" alt="Google" width="80"/>](https://www.credly.com/badges/8c172162-eee8-467e-8b44-0301876ce7be/linked_in_profile)
 <!-- [![AI Skills for Women](https://img.shields.io/badge/Microsoft_×_Founderz_AI_Skills-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](YOUR_FOUNDERZ_CERT_URL) -->
 
 

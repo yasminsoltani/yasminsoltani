@@ -1,7 +1,6 @@
 # Hi, I'm Yasmin 🙋🏽‍♀️
 
-Biomedical engineer turned data & AI governance nerd. I build things and then ask 
-whether we should have built them.
+Biomedical engineer turned data & AI governance nerd. Currently transitioning in AI Safety, taking BlueDot AGI Strategy course.
 
 Currently a Technical Lead intern at NASA Headquarters, where I'm leading the agency's 
 first enterprise Data Maturity Assessment, designing the architecture, building the 
@@ -15,8 +14,8 @@ that are actually trustworthy, not just functional.
 
 
 ### 🛠️ What I work with
-**Platforms & Tools:** Power Apps · Power Automate · Dataverse · SharePoint · Power BI  
 **Languages:** Python · SQL · R · MATLAB  
+**Platforms & Tools:** Microsoft Power Platforms (Apps, Automate, Dataverse, SharePoint, Power BI)
 **Frameworks & Standards:** NIST AI RMF · OECD AI Principles · IAPP AI Governance  
 **Focus areas:** Data governance · AI policy · Enterprise architecture · Data maturity
 
@@ -28,7 +27,7 @@ that are actually trustworthy, not just functional.
 
 
 
-### 👩🏽‍💻 **Projects**
+<!--### 👩🏽‍💻 **Projects**
 
 #### ● [#8WeeksSQLChallenge by Danny Ma](https://github.com/yasminsoltani/8-Weeks-SQL-Challenge) 
 
@@ -36,7 +35,7 @@ that are actually trustworthy, not just functional.
 
 #### ● [Machine Learning Models](https://github.com/yasminsoltani/numerical_analysis.md)
 
-#### ● [R Projects](https://github.com/yasminsoltani/Rprogramming.md/blob/main/LawOfLargeNumbers/LawofLargeNumbers.md)
+#### ● [R Projects](https://github.com/yasminsoltani/Rprogramming.md/blob/main/LawOfLargeNumbers/LawofLargeNumbers.md) -->
 
 ### 🤝🏽 **Connect with me!**
 

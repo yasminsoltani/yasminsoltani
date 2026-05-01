@@ -17,7 +17,7 @@ that are actually trustworthy, not just functional.
 **Languages:** Python · SQL · R · MATLAB  
 **Platforms & Tools:** Microsoft Power Platforms (Apps, Automate, Dataverse, SharePoint, Power BI)
 **Frameworks & Standards:** NIST AI RMF · OECD AI Principles · IAPP AI Governance  
-**Focus areas:** Data governance · AI policy · Enterprise architecture · Data maturity
+**Focus areas:** Data governance · AI policy · Maturity Assessment Design · Evaluation Frameworks
 
 <!--### 📜 Certifications
 <!--[<img src="https://github.com/user-attachments/assets/1a501cb5-6c0a-4cd5-829d-4160215e5b10" alt="Microsoft" width="30"/>](https://learn.microsoft.com/en-us/users/yasminsoltani-5980/credentials/2ce40bcfbff4979e?ref=https%3A%2F%2Fwww.linkedin.com%2F)

@@ -1,25 +1,10 @@
 # Hi, I'm Yasmin 🙋🏽‍♀️
 
-Biomedical engineer turned data, AI governance, and biosafety researcher. 
-Actively transitioning into AI Safety and Biosecurity.
-
+I graduated from the University of Houston with a B.S. in Biomedical Engineering. Starting my M.S. in Computer Science at George Washington University in Fall 2026. 
 3x NASA Intern. Most recently served as Technical Lead at NASA Headquarters, 
 leading the agency's first enterprise Data Maturity Assessment across the Chief 
-Data Officer and Chief AI Officer teams. Graduated from the University of Houston 
-with a B.S. in Biomedical Engineering. Starting my M.S. in Computer Science at 
-George Washington University in Fall 2026.
+Data Officer and Chief AI Officer teams. Currently taking Harvard CS50 course and also part of MIT AI Safety Fundamentals Fellowship.
 
-My work lives at the intersection of technical implementation, responsible AI 
-policy, and biosafety governance. I care about evaluation frameworks, AI 
-accountability, and building assessment infrastructure that is rigorous enough 
-to actually inform decisions.
-
-Recently completed BlueDot Impact's [AGI Strategy course](https://bluedot.org/certification?id=recLhJkcnxEhOMZUO), with Biosecurity and 
-Frontier AI Governance courses up next. I just participated in the AIxBIO Hackathon 
-2026 from Apart Research and had so much fun building the 
-[Three Laws of AI Biosafety](https://apartresearch.com/project/the-three-laws-of-ai-biosafety-a-constitutional-governance-framework-for-ai-biodesign-tools-owf4), 
-a constitutional governance framework for evaluating AI biodesign tools. 
-Selected as Track 3 Spotlight.
 
 ### 🛠️ What I work with
 **Languages:** Python · SQL · R · MATLAB  
